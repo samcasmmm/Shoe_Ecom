@@ -2,6 +2,7 @@ import React from "react";
 
 const ContactInfo = () => {
   return (
+    <div className="customBG">
     <div className="contactInfo container">
       <div className="row">
         <div className="col-12 col-md-4 contact-Box">
@@ -29,6 +30,7 @@ const ContactInfo = () => {
             </div>
             <h5>Email</h5>
             <p>sameerbagwanwork@gmail.com</p>
+          </div>
           </div>
         </div>
       </div>

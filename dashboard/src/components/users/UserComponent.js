@@ -18,11 +18,6 @@ const UserComponent = () => {
     <section className="content-main">
       <div className="content-header">
         <h2 className="content-title">Customers</h2>
-        <div>
-          <Link to="#" className="btn btn-primary">
-            <i className="material-icons md-plus"></i> Create new
-          </Link>
-        </div>
       </div>
 
       <div className="card mb-4">

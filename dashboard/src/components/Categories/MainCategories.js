@@ -23,4 +23,4 @@ const MainCategories = () => {
   );
 };
 
-export default MainCategories;
+// export default MainCategories;

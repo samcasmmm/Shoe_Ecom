@@ -194,6 +194,7 @@ body.offcanvas-active {
   height: 46px;
   width: auto;
   max-width: 200px;
+  margin-left: 55px;
 }
 
 .main-header {
@@ -211,6 +212,9 @@ body.offcanvas-active {
   color: #adb5bd;
   display: block;
   text-decoration: none;
+}
+.Header-green{
+  background-color: #202020;
 }
 .main-header .nav-link:hover {
   background-color: #e9ecef;
