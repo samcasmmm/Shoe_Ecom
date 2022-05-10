@@ -35,9 +35,9 @@ const Header = () => {
               <p>sameerbagwanwork@gmail.com</p>
             </div>
             <div className=" col-12 col-lg-6 justify-content-center justify-content-lg-end d-flex align-items-center">
-              <Link to="">
-                <i className="fab fa-facebook-f" href = "https://www.facebook.com/samcasmmm/"></i>
-              </Link>
+              <a href="https://www.facebook.com/samcasmmm/">
+                <i className="fab fa-facebook-f"></i>
+              </a>
               <Link to="">
                 <i className="fab fa-instagram"></i>
               </Link>
