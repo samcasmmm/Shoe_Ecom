@@ -28,22 +28,31 @@ const Header = () => {
   return (
     <div>
       {/* Top Header */}
-      <div className="Announcement ">
+      <div className="Announcement Announcement2 ">
         <div className="container">
           <div className="row">
             <div className="col-md-6 d-flex align-items-center display-none">
-              <p>sameerbagwanwork@gmail.com</p>
+              <Link to="">
+                  Home
+              </Link>
+              <Link to="">
+                  Products
+              </Link>
+              <Link to="">
+                  AboutUs
+              </Link>
             </div>
+            
             <div className=" col-12 col-lg-6 justify-content-center justify-content-lg-end d-flex align-items-center">
               <a href="https://www.facebook.com/samcasmmm/">
                 <i className="fab fa-facebook-f"></i>
               </a>
-              <Link to="">
+              <a href="https://www.instagram.com/samcasmmm/">
                 <i className="fab fa-instagram"></i>
-              </Link>
-              <Link to="">
+              </a>
+              <a href="https://www.linkedin.com/in/sameer-bagwan-6443811b9/">
                 <i className="fab fa-linkedin-in"></i>
-              </Link>
+              </a>
 
             </div>
           </div>

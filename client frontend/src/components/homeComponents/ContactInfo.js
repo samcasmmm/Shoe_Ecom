@@ -1,8 +1,10 @@
 import React from "react";
+import img from "../imageHome/cr_img1.png";
 
 const ContactInfo = () => {
   return (
     <div className="customBG">
+      
     <div className="contactInfo container">
       <div className="row">
         <div className="col-12 col-md-4 contact-Box">

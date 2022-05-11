@@ -16,6 +16,7 @@ import OrderScreen from "./screens/OrderScreen";
 import NotFound from "./screens/NotFound";
 import PrivateRouter from "./PrivateRouter";
 import MainHome from "./components/MainHome";
+import About from "./components/About";
 
 const App = () => {
   return (
@@ -23,7 +24,8 @@ const App = () => {
       <Switch>
         
         <Route path="/" component={MainHome} exact />
-        <Route path="/allproduct" component={HomeScreen} exact />
+        <Route path="/allproducts" component={HomeScreen} exact />
+        <Route path="/aboutUs" component={About} exact />
         <Route path="/search/:keyword" component={HomeScreen} exact />
         <Route path="/page/:pagenumber" component={HomeScreen} exact />
         <Route
