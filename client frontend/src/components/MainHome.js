@@ -102,6 +102,12 @@ const MainHome = () => {
 
       {/* Cards */}
 
+      
+      <div className="section-head col-sm-12 mt-5 mb-2">
+          <h4><span>Looking for new</span>Products?</h4>
+          <p>When you choose us, you'll feel the benefit of 10 years' experience of Web Development. Because we know the digital world and we know that how to handle it. With working knowledge of online, SEO and social media.</p>
+        </div>
+
       <div className="container mt-5 mb-5" style={{ marginTop: "-3rem" }}>
         <div className="row ">
           <div className="col-lg-4 col-md-6 col-sm-12 col-xs-12  " style={{}}>
@@ -120,8 +126,7 @@ const MainHome = () => {
                   <p className="card-text">
                     We provide maids that work either part-time or full time and
                     who are responsible for the cleanliness and maintenance of
-                    an area in a workplace or a house. When it comes to the home
-                    situation{" "}
+                    an area in a workplace or a house.
                   </p>
                 </center>
               </div>
@@ -142,10 +147,10 @@ const MainHome = () => {
                 <center>
                   <h5 className="card-title">BABY SITTER</h5>
                   <p className="card-text">
-                    The process of hiring a caretaker for your baby can be
+                   Process of hiring a caretaker for your baby can be
                     stressful and a lot of things have to be taken into
                     consideration. We understand this complex process and aspire
-                    to make it easy and safe for you.
+                    to make
                   </p>
                 </center>
               </div>
@@ -176,6 +181,36 @@ const MainHome = () => {
           </div>
         </div>
       </div>
+      {/* info */}
+
+      <div className="feat bg-gray pt-5 pb-5">
+    <div className="container">
+      <div className="row">
+        <div className="section-head col-sm-12">
+          <h4><span>Why Choose</span> Us?</h4>
+          <p>When you choose us, you'll feel the benefit of 10 years' experience of Web Development. Because we know the digital world and we know that how to handle it. With working knowledge of online, SEO and social media.</p>
+        </div>
+        <div className="col-lg-4 col-sm-6">
+          <div className="item"> <span className="icon feature_box_col_one"><i className="fa fa-globe"></i></span>
+            <h6>Modern Design</h6>
+            <p>We use latest technology for the latest world because we know the demand of peoples.</p>
+          </div>
+        </div>
+        <div className="col-lg-4 col-sm-6">
+          <div className="item"> <span className="icon feature_box_col_two"><i className="fa fa-anchor"></i></span>
+            <h6>Creative Design</h6>
+            <p>creative and and always lisen our costomers and we mix these two things and make beast design.</p>
+          </div>
+        </div>
+        <div className="col-lg-4 col-sm-6">
+          <div className="item"> <span className="icon feature_box_col_three"><i className="fa fa-hourglass-half"></i></span>
+            <h6>24 x 7 User Support</h6>
+            <p>If our customer has any problem and any query we are always happy to help then.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 
       {/* footer */}
 

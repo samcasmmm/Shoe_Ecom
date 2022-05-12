@@ -1,4 +1,10 @@
 @media (max-width: 991.98px) {
+
+  .Announcement{
+    background-color: aqua;
+    align-items:center;
+  }
+
   .display-none {
     display: none !important;
   }

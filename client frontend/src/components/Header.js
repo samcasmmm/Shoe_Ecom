@@ -31,7 +31,7 @@ const Header = () => {
       <div className="Announcement Announcement2 ">
         <div className="container">
           <div className="row">
-            <div className="col-md-6 d-flex align-items-center display-none">
+            <div className="col-md-6 .col-sm-4 d-flex align-items-center display-none">
               <Link to="">
                   Home
               </Link>
@@ -43,7 +43,7 @@ const Header = () => {
               </Link>
             </div>
             
-            <div className=" col-12 col-lg-6 justify-content-center justify-content-lg-end d-flex align-items-center">
+            <div className=" col-12 col-lg-6 .col-sm-4 justify-content-center justify-content-lg-end d-flex align-items-center">
               <a href="https://www.facebook.com/samcasmmm/">
                 <i className="fab fa-facebook-f"></i>
               </a>

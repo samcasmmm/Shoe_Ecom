@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import Rating from "./Rating";
 import Pagination from "./pagination";
 import { useDispatch, useSelector } from "react-redux";
-import { listProduct } from "../../Redux/Actions/ProductActions";
+import { listProduct } from "../../Redux/Actions/ProductActions.js";
 import Loading from "../LoadingError/Loading";
 import Message from "../LoadingError/Error";
 
