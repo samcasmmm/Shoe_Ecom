@@ -1,9 +1,4 @@
 @charset "UTF-8";
-/* ==== CUSTOM UI ELEMENTS AND STYLES ====*/
-/* ========================
-INCLUDE STYLES AND COMPONENTS
-===================== */
-/* ================== HELPERS =================== */
 .table thead th {
   color: #adb5bd;
   font-weight: 400;
@@ -42,14 +37,8 @@ a.disabled {
   visibility: hidden;
   background-color: rgba(34, 34, 34, 0.6);
   transition: opacity 0.2s linear, visibility 0.1s, width 1s ease-in;
-}
+}*/
 
-.screen-overlay.show {
-  transition: opacity 0.5s ease, width 0s;
-  opacity: 1;
-  width: 100%;
-  visibility: visible;
-} */
 
 /* =================  DEFINED VARIABLES =================== */
 .icon-xs,

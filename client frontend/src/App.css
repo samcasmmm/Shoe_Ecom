@@ -319,7 +319,7 @@ textarea:focus {
   align-items: center;
 }
 .customBG{
-  filter: brightness(50%);
+  filter: brightness(0.5);
   background-image: url(../src/components/imageHome/cr_img1.png);
   opacity: 100%;
 }

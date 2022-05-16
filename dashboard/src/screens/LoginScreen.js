@@ -30,7 +30,7 @@ const Login = ({ history }) => {
       <Toast />
       <div
         className="card shadow mx-auto"
-        style={{ maxWidth: "380px", marginTop: "100px" }}
+        style={{ maxWidth: "380px", marginTop: "300px" }}
       >
         <div className="card-body">
           {error && <Message variant="alert-danger">{error}</Message>}
