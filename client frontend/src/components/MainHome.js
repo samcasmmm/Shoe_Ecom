@@ -10,7 +10,6 @@ import cd_img2 from "./imageHome/iceshoe.jpg";
 import cd_img3 from "./imageHome/s1.png";
 import cardimg1 from "./imageHome/cardimg1.jpg";
 import cardimg2 from "./imageHome/s3.png";
-import nike from "./imageHome/nike.png";
 
 const MainHome = () => {
   return (
