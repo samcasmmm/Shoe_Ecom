@@ -23,7 +23,7 @@ const MainHome = () => {
               <Link to="/aboutUs">AboutUs</Link>
             </div>
             <div className=" col-12 col-lg-6 justify-content-center justify-content-lg-end d-flex align-items-center">
-              <Link to="/Login">Login</Link>
+              <Link to="/login">Login</Link>
               <Link to="/Register">SignUp</Link>
             </div>
           </div>
@@ -60,7 +60,7 @@ const MainHome = () => {
         </div>
         <div
           className="carousel-inner"
-          style={{ width: "100%", height: "50rem", filter: "brightness(0.5)" }}
+          style={{ width: "100%", height: "50rem", filter: "brightness(80%)" }}
         >
           <div className="carousel-item active">
             <img src={cr_img1} className="d-block w-100" alt="..." />

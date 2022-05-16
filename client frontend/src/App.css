@@ -509,7 +509,7 @@ button:hover{
   padding: 15px 20px;
   font-size: 13px;
   background-color: #ffffff;
-  color: black;
+  color: black !important;
   width: 100%;
   text-align: start;
   border-radius: 0;

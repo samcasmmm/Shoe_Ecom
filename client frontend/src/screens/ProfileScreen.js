@@ -61,6 +61,7 @@ const ProfileScreen = () => {
                     role="tab"
                     aria-controls="v-pills-home"
                     aria-selected="true"
+                    
                   >
                     Profile Settings
                   </button>
