@@ -105,7 +105,9 @@ const MainHome = () => {
           <span>Upcoming </span> Products?
         </h4>
         <p>
-        Welcome to ShoeShop complete calendar for new and upcoming sneaker releases from some of the most popular brands, including: Jordan Brand, Nike, New Balance, adidas, Vans, Converse, ASICS and Reebok.
+          Welcome to ShoeShop complete calendar for new and upcoming sneaker
+          releases from some of the most popular brands, including: Jordan
+          Brand, Nike, New Balance, adidas, Vans, Converse, ASICS and Reebok.
         </p>
       </div>
 
@@ -123,11 +125,11 @@ const MainHome = () => {
               />
               <div className="card-body">
                 <center>
-                  <h5 className="card-title">HOUSE MAID SERVICES</h5>
+                  <h5 className="card-title">Adidas Men's Cricup</h5>
                   <p className="card-text">
-                    We provide maids that work either part-time or full time and
-                    who are responsible for the cleanliness and maintenance of
-                    an area in a workplace or a house.
+                    A pair of grey & black training or gym sports shoes, has
+                    regular styling, lace-up detail. Mesh upper Stability and
+                    traction during lifts or agility drills.
                   </p>
                 </center>
               </div>
@@ -148,7 +150,9 @@ const MainHome = () => {
                 <center>
                   <h5 className="card-title">Woodland Casual Shoes For Men </h5>
                   <p className="card-text">
-                  Get a dressedtokill and aristocratic look with these pair of Woodland shoes. These pair of brown shoes is match to your favored denim.
+                    Get a dressedtokill and aristocratic look with these pair of
+                    Woodland shoes. These pair of brown shoes is match to your
+                    favored denim.
                   </p>
                 </center>
               </div>
@@ -167,9 +171,10 @@ const MainHome = () => {
               <div className="card-body">
                 <center>
                   <h5 className="card-title">Nike Air Zoom Infinity Tour</h5>
-                  <p className="card-text">We increased the volume to give your foot more room, 
-                  put an unit in forefoot for more energy transfer through your 
-                  swing.comfortable shoe that we know you're going to love.
+                  <p className="card-text">
+                    We increased the volume to give your foot more room, put an
+                    unit in forefoot for more energy transfer through your
+                    swing.comfortable shoe that we know you're going to love.
                   </p>
                 </center>
               </div>
@@ -223,8 +228,8 @@ const MainHome = () => {
                     Mesh upper with tpu film for breathability and lightweight
                     comfort. Eva sockliner comforms to the shape of your foot
                     for comfort and support Tpu plate with removable spikes
-                    receptacles for maximum power.Rubber through the heel
-                    with a pyramid shaped traction pattern.
+                    receptacles for maximum power.Rubber through the heel with a
+                    pyramid shaped traction pattern.
                   </p>
                 </center>
               </div>
@@ -244,10 +249,11 @@ const MainHome = () => {
                 <center>
                   <h5 className="card-title">Nike LunarGlide</h5>
                   <p className="card-text">
-                  The shoe whose namesake cushioning was inspired by astronauts 
-                  bounding weightlessly on the moon is more stable than ever. 
-                  With lightweight Nike Lunarlon cushioning, enhanced stability, 
-                  support and style, the shoe delivers a plush, responsive ride that runners love. 
+                    The shoe whose namesake cushioning was inspired by
+                    astronauts bounding weightlessly on the moon is more stable
+                    than ever. With lightweight Nike Lunarlon cushioning,
+                    enhanced stability, support and style, the shoe delivers a
+                    plush, responsive ride that runners love.
                   </p>
                 </center>
               </div>
@@ -256,7 +262,7 @@ const MainHome = () => {
         </div>
       </div>
       {/* footer */}
-      <Footer/>
+      <Footer />
     </>
   );
 };
